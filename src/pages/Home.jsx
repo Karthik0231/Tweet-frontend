@@ -15,7 +15,7 @@ export default function Home() {
 
   return (
     <div>
-      This is Number:  {number}
+      This is Number: DFGHJKLDFGHJKFGHJ {number}
       <button onClick={()=>setNumber(number+1)}>+</button>
     </div>
   )
